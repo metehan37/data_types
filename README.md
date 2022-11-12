@@ -1,2 +1,2 @@
 # data_types projesi
-bu proje [Patika](www.patika.dev) c# eğitimi ile yapılmıştır.
+bu proje [Patika](https://www.patika.dev) c# eğitimi ile yapılmıştır.
