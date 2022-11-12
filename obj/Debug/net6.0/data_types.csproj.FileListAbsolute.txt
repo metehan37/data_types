@@ -1,0 +1,15 @@
+C:\Users\Metehan\Desktop\Pratikler\data_types\bin\Debug\net6.0\data_types.exe
+C:\Users\Metehan\Desktop\Pratikler\data_types\bin\Debug\net6.0\data_types.deps.json
+C:\Users\Metehan\Desktop\Pratikler\data_types\bin\Debug\net6.0\data_types.runtimeconfig.json
+C:\Users\Metehan\Desktop\Pratikler\data_types\bin\Debug\net6.0\data_types.dll
+C:\Users\Metehan\Desktop\Pratikler\data_types\bin\Debug\net6.0\data_types.pdb
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.csproj.AssemblyReference.cache
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.AssemblyInfoInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.AssemblyInfo.cs
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.csproj.CoreCompileInputs.cache
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.dll
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\refint\data_types.dll
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.pdb
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\data_types.genruntimeconfig.cache
+C:\Users\Metehan\Desktop\Pratikler\data_types\obj\Debug\net6.0\ref\data_types.dll
